@@ -18,10 +18,9 @@ In the scenes folder of the project, double click on the name of a scene named "
 In the hierarchy window of the "VirtualMuseum" scene, you can find two types of players: "Player(fortestonPhone)" and "Player(fortestinUnity)" that gives you the possibility to test the experience on both your smartphone and the play mode of the unity itself. 
 You can inactivate the "Player(fortestonPhone)" and activate the player named "Player(fortestinUnity)" when you are testing the project inside the unity itself. In this way, you can look around by pressing the Alt key on your keyboard and moving the mouse to the right and left, and moving in the direction of looking by the use of the arrow keys on your keyboard. And you can inactive the "Player(fortestinUnity)" and active the "Player(fortestonphone)" for building and testing the project with a smartphone that by tapping on the screen of the smartphone (or pressing the button of the cardboard), you can move in the direction of your look.
 
-*The .apk file (built for Android smartphones) of the example scene is also provided in the built folder of the project.
-
 *You can always navigate in a unity scene view by using the combination of the moving scroll wheel of your mouse forward and backward and right-clicking on the mouse and moving it to the right and left. This is helpful when you are creating different parts of your environment in unity.
 
+*Suggested version of unity for this project: 2019.4.35f1
 
 ### The template scene:
 
